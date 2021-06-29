@@ -2,9 +2,7 @@
 //  main.cpp
 //  Newton-raphson
 //
-//  Created by Floreth Gonzalez on 02/02/17.
-//  Copyright © 2017 Floreth Gonzalez. All rights reserved.
-//
+//by astra missa 2021
 
 #include <iostream>
 #include <cmath>
